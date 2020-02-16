@@ -1,0 +1,7 @@
+Maximum Profit (Divide & Conquer solution): 539
+Day to buy: 8
+Day to sell: 12
+
+Maximum Profit (Iterative solution): 539
+Day to buy: 8
+Day to sell: 12
