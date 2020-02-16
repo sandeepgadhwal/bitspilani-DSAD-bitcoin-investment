@@ -4,9 +4,9 @@ bitspilani-DSAD-bitcoin-investment
 Algorithm design for assignment AS2_PS8_BI_168 
 
 •	We have designed a main class “Solver”, it has methods to 
-  o	read input
-  o	solve the input data
-  o	output the solution to a file
+ o	read input
+ o	solve the input data
+ o	output the solution to a file
 •	The main class “Solver” is declared inside main.py file along with all the supporting lambda functions.
 •	For testing the class “Solver” the following lines of code can be used 
     o	solver = Solver('inputPS8.txt')
